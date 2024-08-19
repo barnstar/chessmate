@@ -2,4 +2,10 @@
 
 ## Running
 
-go run server.go
+go run backend.go
+
+```
+% curl http://localhost:8081/move
+Hello, you've reached the move API!
+```
+
